@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(170, 175, 247);
+    font-weight: lighter;
+    font-family: 'Ubuntu', sans-serif;
+}
+.header_div p{
+    font-weight: bold;
+    font-size: larger;
+}
+#start{
+    font-weight: bolder;
+    font-size: larger;
+}
+.copy_right_footer{
+    font-size: larger;
+    font-weight: bolder;
+    text-anchor: end;
+}
